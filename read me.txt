@@ -1,5 +1,5 @@
 Resident Data Management Software
 *********************************
 
-A software to store and manage resident data like the name and details of each family member, the house name, etc. 
+A software to store and manage resident data like the name and details of each family member, the address etc. The program uses the age calculation algorithm to calculate the age of each family member. 
 Built in python 2.7
